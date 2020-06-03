@@ -81,6 +81,13 @@
       <artifactId>spring-boot-devtools</artifactId>
       <scope>runtime</scope>
     </dependency>
+    <dependency>
+      <groupId>com.appdynamics.code</groupId>
+      <artifactId>javaagent</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent-1.0.jar</systemPath>
+    </dependency>
   </dependencies>
 
   <build>
