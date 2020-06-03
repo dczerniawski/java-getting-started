@@ -84,9 +84,9 @@
     <dependency>
       <groupId>com.appdynamics.code</groupId>
       <artifactId>javaagent</artifactId>
-      <version>1.0</version>
+      <version>20.5.0.30113</version>
       <scope>system</scope>
-      <systemPath>/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent.jar</systemPath>
+      <systemPath>/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent-20.5.0.30113.jar</systemPath>
     </dependency>
   </dependencies>
 
