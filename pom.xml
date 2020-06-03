@@ -86,7 +86,7 @@
       <artifactId>javaagent</artifactId>
       <version>20.5.0.30113</version>
       <scope>system</scope>
-      <systemPath>/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent-20.5.0.30113.jar</systemPath>
+      <systemPath>/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent.jar</systemPath>
     </dependency>
   </dependencies>
 
