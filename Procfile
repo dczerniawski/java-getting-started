@@ -1,1 +1,1 @@
-web: java -jar target/java-getting-started-1.0.jar -javaagent:/appd/javaagent-1.0.jar
+web: java -javaagent:/Users/daveczerniawski/gitrepo/java-getting-started/appd/javaagent-1.0.jar -jar target/java-getting-started-1.0.jar
