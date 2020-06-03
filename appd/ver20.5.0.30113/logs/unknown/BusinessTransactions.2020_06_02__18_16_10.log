@@ -1,0 +1,4 @@
+[AD Agent init] 02 Jun 2020 18:16:11,032  INFO - Starting BT Logs at Tue Jun 02 18:16:11 PDT 2020
+[AD Agent init] 02 Jun 2020 18:16:11,042  INFO - ###########################################################
+[AD Agent init] 02 Jun 2020 18:16:11,042  INFO - Using Java Agent Version [Server Agent #20.5.0.30113 v20.5.0 GA compatible with 4.4.1.0 r474b6e3c8f55ababbb11a87ff265d8ce34eb0414 release/20.5.0]
+[AD Agent init] 02 Jun 2020 18:16:11,042  INFO - Running IBM Java Agent [No]
